@@ -1,0 +1,45 @@
+C:\Users\Chuck\Desktop\Authorship\WIP - Q# Getting Started\Module 4 - Entanglement\Code\C#\Entanglement\Superposition\obj\Debug\netcoreapp3.0\Superposition.AssemblyInfoInputs.cache
+C:\Users\Chuck\Desktop\Authorship\WIP - Q# Getting Started\Module 4 - Entanglement\Code\C#\Entanglement\Superposition\obj\Debug\netcoreapp3.0\Superposition.AssemblyInfo.cs
+C:\Users\Chuck\Desktop\Authorship\WIP - Q# Getting Started\Module 4 - Entanglement\Code\C#\Entanglement\Superposition\bin\Debug\netcoreapp3.0\Superposition.exe
+C:\Users\Chuck\Desktop\Authorship\WIP - Q# Getting Started\Module 4 - Entanglement\Code\C#\Entanglement\Superposition\bin\Debug\netcoreapp3.0\Superposition.deps.json
+C:\Users\Chuck\Desktop\Authorship\WIP - Q# Getting Started\Module 4 - Entanglement\Code\C#\Entanglement\Superposition\bin\Debug\netcoreapp3.0\Superposition.runtimeconfig.json
+C:\Users\Chuck\Desktop\Authorship\WIP - Q# Getting Started\Module 4 - Entanglement\Code\C#\Entanglement\Superposition\bin\Debug\netcoreapp3.0\Superposition.runtimeconfig.dev.json
+C:\Users\Chuck\Desktop\Authorship\WIP - Q# Getting Started\Module 4 - Entanglement\Code\C#\Entanglement\Superposition\bin\Debug\netcoreapp3.0\Superposition.dll
+C:\Users\Chuck\Desktop\Authorship\WIP - Q# Getting Started\Module 4 - Entanglement\Code\C#\Entanglement\Superposition\bin\Debug\netcoreapp3.0\Superposition.pdb
+C:\Users\Chuck\Desktop\Authorship\WIP - Q# Getting Started\Module 4 - Entanglement\Code\C#\Entanglement\Superposition\bin\Debug\netcoreapp3.0\Microsoft.Quantum.Intrinsic.dll
+C:\Users\Chuck\Desktop\Authorship\WIP - Q# Getting Started\Module 4 - Entanglement\Code\C#\Entanglement\Superposition\bin\Debug\netcoreapp3.0\Microsoft.Quantum.Simulation.Common.dll
+C:\Users\Chuck\Desktop\Authorship\WIP - Q# Getting Started\Module 4 - Entanglement\Code\C#\Entanglement\Superposition\bin\Debug\netcoreapp3.0\Microsoft.Quantum.Simulation.Core.dll
+C:\Users\Chuck\Desktop\Authorship\WIP - Q# Getting Started\Module 4 - Entanglement\Code\C#\Entanglement\Superposition\bin\Debug\netcoreapp3.0\Microsoft.Quantum.Simulation.QCTraceSimulatorRuntime.dll
+C:\Users\Chuck\Desktop\Authorship\WIP - Q# Getting Started\Module 4 - Entanglement\Code\C#\Entanglement\Superposition\bin\Debug\netcoreapp3.0\Microsoft.Quantum.Simulators.dll
+C:\Users\Chuck\Desktop\Authorship\WIP - Q# Getting Started\Module 4 - Entanglement\Code\C#\Entanglement\Superposition\bin\Debug\netcoreapp3.0\Microsoft.Quantum.Standard.dll
+C:\Users\Chuck\Desktop\Authorship\WIP - Q# Getting Started\Module 4 - Entanglement\Code\C#\Entanglement\Superposition\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Chuck\Desktop\Authorship\WIP - Q# Getting Started\Module 4 - Entanglement\Code\C#\Entanglement\Superposition\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\Microsoft.Quantum.Simulator.Runtime.dll
+C:\Users\Chuck\Desktop\Authorship\WIP - Q# Getting Started\Module 4 - Entanglement\Code\C#\Entanglement\Superposition\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\Microsoft.Quantum.Simulator.Runtime.dll
+C:\Users\Chuck\Desktop\Authorship\WIP - Q# Getting Started\Module 4 - Entanglement\Code\C#\Entanglement\Superposition\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\Microsoft.Quantum.Simulator.Runtime.dll
+C:\Users\Chuck\Desktop\Authorship\WIP - Q# Getting Started\Module 4 - Entanglement\Code\C#\Entanglement\Superposition\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\vcomp140.dll
+C:\Users\Chuck\Desktop\Authorship\WIP - Q# Getting Started\Module 4 - Entanglement\Code\C#\Entanglement\Superposition\obj\Debug\netcoreapp3.0\Superposition.csproj.CopyComplete
+C:\Users\Chuck\Desktop\Authorship\WIP - Q# Getting Started\Module 4 - Entanglement\Code\C#\Entanglement\Superposition\obj\Debug\netcoreapp3.0\Superposition.dll
+C:\Users\Chuck\Desktop\Authorship\WIP - Q# Getting Started\Module 4 - Entanglement\Code\C#\Entanglement\Superposition\obj\Debug\netcoreapp3.0\Superposition.pdb
+C:\Users\Chuck\Desktop\Authorship\WIP - Q# Getting Started\Module 4 - Entanglement\Code\C#\QSharp - Getting Started\Superposition\bin\Debug\netcoreapp3.0\Superposition.exe
+C:\Users\Chuck\Desktop\Authorship\WIP - Q# Getting Started\Module 4 - Entanglement\Code\C#\QSharp - Getting Started\Superposition\bin\Debug\netcoreapp3.0\Superposition.deps.json
+C:\Users\Chuck\Desktop\Authorship\WIP - Q# Getting Started\Module 4 - Entanglement\Code\C#\QSharp - Getting Started\Superposition\bin\Debug\netcoreapp3.0\Superposition.runtimeconfig.json
+C:\Users\Chuck\Desktop\Authorship\WIP - Q# Getting Started\Module 4 - Entanglement\Code\C#\QSharp - Getting Started\Superposition\bin\Debug\netcoreapp3.0\Superposition.runtimeconfig.dev.json
+C:\Users\Chuck\Desktop\Authorship\WIP - Q# Getting Started\Module 4 - Entanglement\Code\C#\QSharp - Getting Started\Superposition\bin\Debug\netcoreapp3.0\Superposition.dll
+C:\Users\Chuck\Desktop\Authorship\WIP - Q# Getting Started\Module 4 - Entanglement\Code\C#\QSharp - Getting Started\Superposition\bin\Debug\netcoreapp3.0\Superposition.pdb
+C:\Users\Chuck\Desktop\Authorship\WIP - Q# Getting Started\Module 4 - Entanglement\Code\C#\QSharp - Getting Started\Superposition\bin\Debug\netcoreapp3.0\Microsoft.Quantum.Intrinsic.dll
+C:\Users\Chuck\Desktop\Authorship\WIP - Q# Getting Started\Module 4 - Entanglement\Code\C#\QSharp - Getting Started\Superposition\bin\Debug\netcoreapp3.0\Microsoft.Quantum.Simulation.Common.dll
+C:\Users\Chuck\Desktop\Authorship\WIP - Q# Getting Started\Module 4 - Entanglement\Code\C#\QSharp - Getting Started\Superposition\bin\Debug\netcoreapp3.0\Microsoft.Quantum.Simulation.Core.dll
+C:\Users\Chuck\Desktop\Authorship\WIP - Q# Getting Started\Module 4 - Entanglement\Code\C#\QSharp - Getting Started\Superposition\bin\Debug\netcoreapp3.0\Microsoft.Quantum.Simulation.QCTraceSimulatorRuntime.dll
+C:\Users\Chuck\Desktop\Authorship\WIP - Q# Getting Started\Module 4 - Entanglement\Code\C#\QSharp - Getting Started\Superposition\bin\Debug\netcoreapp3.0\Microsoft.Quantum.Simulators.dll
+C:\Users\Chuck\Desktop\Authorship\WIP - Q# Getting Started\Module 4 - Entanglement\Code\C#\QSharp - Getting Started\Superposition\bin\Debug\netcoreapp3.0\Microsoft.Quantum.Standard.dll
+C:\Users\Chuck\Desktop\Authorship\WIP - Q# Getting Started\Module 4 - Entanglement\Code\C#\QSharp - Getting Started\Superposition\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Chuck\Desktop\Authorship\WIP - Q# Getting Started\Module 4 - Entanglement\Code\C#\QSharp - Getting Started\Superposition\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\Microsoft.Quantum.Simulator.Runtime.dll
+C:\Users\Chuck\Desktop\Authorship\WIP - Q# Getting Started\Module 4 - Entanglement\Code\C#\QSharp - Getting Started\Superposition\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\Microsoft.Quantum.Simulator.Runtime.dll
+C:\Users\Chuck\Desktop\Authorship\WIP - Q# Getting Started\Module 4 - Entanglement\Code\C#\QSharp - Getting Started\Superposition\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\Microsoft.Quantum.Simulator.Runtime.dll
+C:\Users\Chuck\Desktop\Authorship\WIP - Q# Getting Started\Module 4 - Entanglement\Code\C#\QSharp - Getting Started\Superposition\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\vcomp140.dll
+C:\Users\Chuck\Desktop\Authorship\WIP - Q# Getting Started\Module 4 - Entanglement\Code\C#\QSharp - Getting Started\Superposition\obj\Debug\netcoreapp3.0\Superposition.csprojAssemblyReference.cache
+C:\Users\Chuck\Desktop\Authorship\WIP - Q# Getting Started\Module 4 - Entanglement\Code\C#\QSharp - Getting Started\Superposition\obj\Debug\netcoreapp3.0\Superposition.AssemblyInfoInputs.cache
+C:\Users\Chuck\Desktop\Authorship\WIP - Q# Getting Started\Module 4 - Entanglement\Code\C#\QSharp - Getting Started\Superposition\obj\Debug\netcoreapp3.0\Superposition.AssemblyInfo.cs
+C:\Users\Chuck\Desktop\Authorship\WIP - Q# Getting Started\Module 4 - Entanglement\Code\C#\QSharp - Getting Started\Superposition\obj\Debug\netcoreapp3.0\Superposition.csproj.CopyComplete
+C:\Users\Chuck\Desktop\Authorship\WIP - Q# Getting Started\Module 4 - Entanglement\Code\C#\QSharp - Getting Started\Superposition\obj\Debug\netcoreapp3.0\Superposition.dll
+C:\Users\Chuck\Desktop\Authorship\WIP - Q# Getting Started\Module 4 - Entanglement\Code\C#\QSharp - Getting Started\Superposition\obj\Debug\netcoreapp3.0\Superposition.pdb
